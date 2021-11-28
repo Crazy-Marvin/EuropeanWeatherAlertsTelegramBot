@@ -1,1 +1,1 @@
-
+This bot notifies you about hazard warnings in Europe from Meteoalarm. Meteoalarm integrates all important severe weather information originating from the official National Public Weather Services across all European countries. It is provided AS-IS so please do not rely completely on this bot.
