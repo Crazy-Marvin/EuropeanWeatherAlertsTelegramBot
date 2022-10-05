@@ -15,6 +15,7 @@
 # European Weather Alerts Telegram Bot
 
 This [bot](http://t.me/EuropeanWeatherAlertsBot) shows you hazard warnings from [Meteoalarm](https://meteoalarm.org/en/). 
+I am waiting for an easier to use API for now.
 
 #### Commands
 
